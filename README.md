@@ -11,5 +11,3 @@ Ready have `EEPROM` is memory value.
 
 -----------------------------------
 Create by Amadeus
-
-\polls "Like" "Dislike"
