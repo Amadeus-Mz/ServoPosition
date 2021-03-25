@@ -1,0 +1,19 @@
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.exe.config
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.exe
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.pdb
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.csprojAssemblyReference.cache
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.Properties.Resources.resources
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.csproj.GenerateResource.cache
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.exe
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.pdb
+C:\Users\s6003014610029\Desktop\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.Form1.resources
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.exe.config
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.exe
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.pdb
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.Form1.resources
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.Properties.Resources.resources
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.csproj.GenerateResource.cache
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.csproj.CoreCompileInputs.cache
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.exe
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.pdb
+C:\Users\s6003014610029\Desktop\5. ServoPositionSetting Program\SerialToArduino\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.csprojAssemblyReference.cache
